@@ -1,10 +1,10 @@
 #mini project
 This is the repo for Stepin mini  project program.
 
-| Build | Git Inspector | Code Quality |  Codeacy  |
-|-------|---------------|-------------|------------| 
+|Code inspector| cpp check | Unit test | GIT inspector |
+|--------------|-----------|-----------|---------------| 
 
-![Code Quality score ](https://www.code-inspector.com/project/25248/score/svg)![code grade](https://www.code-inspector.com/project/25248/status/svg)
+![Code Quality score ](https://www.code-inspector.com/project/25248/score/svg) ![code grade](https://www.code-inspector.com/project/25248/status/svg)
 
 
 
