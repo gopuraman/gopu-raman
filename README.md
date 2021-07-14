@@ -1,5 +1,6 @@
 #mini project
-This is the repo for Stepin mini  project program.
+This is the repo for Stepin mini project.
+
 
 |Code inspector| cpp check | Unit test | GIT inspector |
 |--------------|-----------|-----------|---------------| 
